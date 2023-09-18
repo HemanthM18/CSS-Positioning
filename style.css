@@ -1,0 +1,42 @@
+*{
+    background-color: black;
+    font-size: large;
+    font-weight: bold;
+}
+
+#box1{
+    border: 0px solid;
+    height:400px;
+    width: 600px;
+    background-color: rgb(202, 141, 60);
+    position: relative;
+    left: 400px;
+    top: 100px;
+}
+#box2{
+    border: 3px solid;
+    height: 320px;
+    width: 500px;
+    background-color: rgb(223, 175, 111);
+    position: absolute;
+    left: 50px;
+    top: 40px;
+}
+#box3{
+    border: 3px dotted;
+    height: 240px;
+    width: 400px;
+    background-color: rgb(165, 223, 111);
+    position: absolute;
+    left: 50px;
+    top: 40px;
+}
+#box4{
+    border: 3px solid;
+    height: 150px;
+    width: 300px;
+    background-color: rgb(111, 223, 223);
+    position: absolute;
+    left: 50px;
+    top: 40px;
+}
